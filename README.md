@@ -1,1 +1,1 @@
-# Tableau-Project
+Developed an interactive Tableau dashboard to analyze Airbnb listings data, uncovering key insights into pricing trends, occupancy rates, and host performance across various locations. The project focuses on identifying the factors influencing rental prices and customer satisfaction to support data-driven decision-making for hosts and travelers.
